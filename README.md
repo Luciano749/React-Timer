@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+O projeto foi desenvolvido em React e oferece três funcionalidades principais: um relógio, uma contagem regressiva (countdown) e um cronômetro. Com ele, os usuários podem monitorar a hora atual, definir um tempo específico e acompanhar a contagem regressiva até zero, ou medir o tempo decorrido.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Funcionalidades
 
-## Available Scripts
+Relógio
+O relógio exibe a hora atual de acordo com o fuso horário do dispositivo em que a aplicação está sendo executada. Ele é atualizado em tempo real, permitindo que os usuários acompanhem com precisão a hora atual.
 
-In the project directory, you can run:
+# Contagem regressiva
 
-### `npm start`
+A funcionalidade de contagem regressiva permite que os usuários definam um tempo específico e acompanhem a contagem regressiva até zero. Isso é útil para eventos programados, prazos ou qualquer situação em que seja necessário monitorar o tempo restante.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Cronômetro
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O cronômetro é uma ferramenta para medir o tempo decorrido. Os usuários podem iniciar, pausar, reiniciar e parar o cronômetro conforme necessário. É uma funcionalidade útil para rastrear o tempo gasto em atividades, como exercícios físicos, tarefas ou jogos.
 
-### `npm test`
+# Tecnologias utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- JavaScript
+- HTML
+- CSS
 
-### `npm run build`
+# Como executar o projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Clone este repositório em sua máquina local
+- Navegue até o diretório do projeto através do terminal
+- Instale as dependências do projeto utilizando o comando npm install
+- Inicie o servidor de desenvolvimento com o comando npm start
+- Acesse o projeto no seu navegador em http://localhost:3000
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<sub>Readme feito com auxilio do chatGPT.</sub>
